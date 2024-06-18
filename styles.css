@@ -1,7 +1,18 @@
-
-h1{ 
-    text-align: center;
-    color:orange ;
-    font-size: 150px;
+*{ 
+    margin: 0px;
 }
+
+
+.Odin-Recipes{ 
+    background-color: rgb(25, 18, 232);
+    border: 20px solid #c56607; 
+    color: #c56607;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-size: 30px;
+    margin: 5px;
+}
+
+
 
