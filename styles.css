@@ -11,8 +11,22 @@
     margin: 20px;
     text-align: center;
     font-size: 30px;
-    margin: 5px;
+    margin: 10px;
 }
 
 
 
+ul{ 
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin: 10px;
+    border: solid aqua;
+    background-color: burlywood;
+}
+
+.chicken_curry_link{ 
+    display: flex;
+    border: solid orange;
+
+}
