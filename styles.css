@@ -4,29 +4,31 @@
 
 
 .Odin-Recipes{ 
-    background-color: rgb(25, 18, 232);
+   
+    background-color: burlywood;
     border: 20px solid #c56607; 
-    color: #c56607;
-    padding: 20px;
-    margin: 20px;
+    color: blue;
+    padding: 100px;
+    margin: 0px;
     text-align: center;
     font-size: 30px;
     margin: 10px;
 }
 
-
-
 ul{ 
+    background-color: aqua;
+    color: lightcoral; 
     display: flex;
-    justify-content: space-evenly;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+    border: 20px solid burlywood;
+
+}
+
+li {
+    border: 20px solid blue;
     padding: 20px;
-    margin: 10px;
-    border: solid aqua;
-    background-color: burlywood;
-}
+    margin: 30px;
+  }
 
-.chicken_curry_link{ 
-    display: flex;
-    border: solid orange;
-
-}
