@@ -1,6 +1,10 @@
 *{ 
+    display: flex 1; 
+    line-height: 1.5;
     margin: 0px;
+    padding: 0px;  
 }
+
 
 
 .Odin-Recipes{ 
@@ -15,6 +19,7 @@
     margin: 10px;
 }
 
+<<<<<<< HEAD
 ul{ 
     background-color: aqua;
     color: lightcoral; 
@@ -32,3 +37,18 @@ li {
     margin: 30px;
   }
 
+=======
+img{ 
+
+    width: 250px;
+    border:solid #c56607;
+    background-color: pink;
+}
+
+.Chicken-Curry{ 
+
+    border: solid orange;
+
+}
+
+>>>>>>> bea6ca6b6360c6989f209e4f2e3b0ffc011918e6
